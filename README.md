@@ -26,7 +26,3 @@ https://www.pulumi.com/registry/packages/aws/how-to-guides/rest-api/
 # templates: https://github.com/pulumi/templates
 pulumi new aws-typescript --name infrastructure-as-code --dir infrastructure-as-code
 ```
-
-## create lambda function
-
-https://www.pulumi.com/docs/guides/crosswalk/aws/lambda/#register-an-event-handler-by-creating-a-lambda-function-resource
