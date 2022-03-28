@@ -2,7 +2,6 @@
 
 ## user group roles:
 
-- AWSCodeDeployRoleForLambda
 - AWSLambda_FullAccess
 - IAMFullAccess
 - AmazonAPIGatewayAdministrator
