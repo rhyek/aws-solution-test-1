@@ -1,0 +1,3 @@
+packages:
+  - 'infrastructure-as-code'
+  - 'src/backend/*'
